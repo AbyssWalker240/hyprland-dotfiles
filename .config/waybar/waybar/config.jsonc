@@ -1,0 +1,15 @@
+{
+    "layer": "top",
+    "position": "bottom",
+    "height": 32,
+    "modules-left": ["hyprland/workspaces"],
+    "modules-center": ["hyprland/window"],
+    "modules-right": ["clock"],
+
+    "hyprland/window": {
+        "max-length": 200
+    },
+    "clock": {
+        "format": "{:%a, %b %d  %I:%M %p}"
+    }
+}

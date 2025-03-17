@@ -1,0 +1,32 @@
+* {
+    border: none;
+    font-size: 16px;
+}
+
+window#waybar {
+    background: rgba(0,0,0,0);
+    color: #81a2be;
+}
+
+#workspaces button {
+    padding: 0 5px;
+    background: transparent;
+    color: #81a2be;
+    border-bottom: 3px solid transparent;
+}
+
+#workspaces button.active {
+    border-bottom: 3px solid #f0c674;
+}
+
+#workspaces button.urgent {
+    border-bottom: 3px solid #cc6666;
+}
+
+#workspaces button:hover {
+    background: #373b41;
+}
+
+#mode, #clock, #battery { 
+     	padding: 0 10px;
+}
