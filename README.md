@@ -14,3 +14,10 @@ My personal Hyprland configuration with waybar, rofi, neofetch, and kitty config
 
 ## Notes
 There are some filepaths/settings in the configs that are system specific that you will need to double check and correct, noted in the configs with a comment
+
+## Gallery
+![cool pic](https://github.com/AbyssWalker240/hyprland-dotfiles/blob/main/images/gallery/0.png "Learning how to use git")
+![cool pic](https://github.com/AbyssWalker240/hyprland-dotfiles/blob/main/images/gallery/1.png)
+![cool pic](https://github.com/AbyssWalker240/hyprland-dotfiles/blob/main/images/gallery/2.png)
+![cool pic](https://github.com/AbyssWalker240/hyprland-dotfiles/blob/main/images/gallery/3.png)
+![cool pic](https://github.com/AbyssWalker240/hyprland-dotfiles/blob/main/images/gallery/4.png)
